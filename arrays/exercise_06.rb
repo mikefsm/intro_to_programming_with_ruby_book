@@ -1,0 +1,1 @@
+Indexes for arrays are integer values, so names['margaret'] is trying to convert 'margaret' to an integer. If you are trying to change 'margaret' in the exitsting array to 'judy', you would do names[3] = 'jody' 
